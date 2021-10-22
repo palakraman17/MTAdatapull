@@ -1,0 +1,338 @@
+id: "000001R"
+trip_update {
+  trip {
+    trip_id: "122050_R..S"
+    start_time: "20:20:30"
+    start_date: "20211021"
+    route_id: "R"
+  }
+}
+;
+id: "000003R"
+trip_update {
+  trip {
+    trip_id: "123000_R..S"
+    start_time: "20:30:00"
+    start_date: "20211021"
+    route_id: "R"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867752
+    }
+    departure {
+      time: 1634867752
+    }
+    stop_id: "R42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867762
+    }
+    departure {
+      time: 1634867762
+    }
+    stop_id: "R43S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867872
+    }
+    departure {
+      time: 1634867872
+    }
+    stop_id: "R44S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868007
+    }
+    departure {
+      time: 1634868007
+    }
+    stop_id: "R45S"
+  }
+}
+;
+id: "000005R"
+trip_update {
+  trip {
+    trip_id: "123350_R..N"
+    start_time: "20:33:30"
+    start_date: "20211021"
+    route_id: "R"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867762
+    }
+    departure {
+      time: 1634867762
+    }
+    stop_id: "G11N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867830
+    }
+    departure {
+      time: 1634867830
+    }
+    stop_id: "G10N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867950
+    }
+    departure {
+      time: 1634867950
+    }
+    stop_id: "G09N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868100
+    }
+    departure {
+      time: 1634868100
+    }
+    stop_id: "G08N"
+  }
+}
+;
+id: "000007R"
+trip_update {
+  trip {
+    trip_id: "124400_R..S"
+    start_time: "20:44:00"
+    start_date: "20211021"
+    route_id: "R"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867762
+    }
+    departure {
+      time: 1634867762
+    }
+    stop_id: "R33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867847
+    }
+    departure {
+      time: 1634867847
+    }
+    stop_id: "R34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867937
+    }
+    departure {
+      time: 1634867937
+    }
+    stop_id: "R35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868057
+    }
+    departure {
+      time: 1634868057
+    }
+    stop_id: "R36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868207
+    }
+    departure {
+      time: 1634868207
+    }
+    stop_id: "R39S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868297
+    }
+    departure {
+      time: 1634868297
+    }
+    stop_id: "R40S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868387
+    }
+    departure {
+      time: 1634868387
+    }
+    stop_id: "R41S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868537
+    }
+    departure {
+      time: 1634868537
+    }
+    stop_id: "R42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868627
+    }
+    departure {
+      time: 1634868627
+    }
+    stop_id: "R43S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868762
+    }
+    departure {
+      time: 1634868762
+    }
+    stop_id: "R44S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868897
+    }
+    departure {
+      time: 1634868897
+    }
+    stop_id: "R45S"
+  }
+}
+;
+id: "000009R"
+trip_update {
+  trip {
+    trip_id: "124335_R..N"
+    start_time: "20:43:21"
+    start_date: "20211021"
+    route_id: "R"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867850
+    }
+    departure {
+      time: 1634867850
+    }
+    stop_id: "G21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634867970
+    }
+    departure {
+      time: 1634867970
+    }
+    stop_id: "G20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868090
+    }
+    departure {
+      time: 1634868090
+    }
+    stop_id: "G19N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868210
+    }
+    departure {
+      time: 1634868210
+    }
+    stop_id: "G18N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868300
+    }
+    departure {
+      time: 1634868300
+    }
+    stop_id: "G16N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868420
+    }
+    departure {
+      time: 1634868420
+    }
+    stop_id: "G15N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868570
+    }
+    departure {
+      time: 1634868570
+    }
+    stop_id: "G14N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868750
+    }
+    departure {
+      time: 1634868750
+    }
+    stop_id: "G13N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868870
+    }
+    departure {
+      time: 1634868870
+    }
+    stop_id: "G12N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634868990
+    }
+    departure {
+      time: 1634868990
+    }
+    stop_id: "G11N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634869080
+    }
+    departure {
+      time: 1634869080
+    }
+    stop_id: "G10N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634869200
+    }
+    departure {
+      time: 1634869200
+    }
+    stop_id: "G09N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1634869320
+    }
+    departure {
+      time: 1634869320
+    }
+    stop_id: "G08N"
+  }
+}
+;
