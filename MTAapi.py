@@ -17,7 +17,7 @@ def ReadCsv(filename):
 
 
 def main():
-    my_headers = {'x-api-key' : 'tQ5fewZjmB9F2Fe53QJkc15tM3nH7cMG6ONiDPdN'}
+    my_headers = {'x-api-key' : 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
     feed = gtfs_realtime_pb2.FeedMessage()
     train = input("Yellow Line or Blue Line? \n")
     if train == "Yellow Line":
@@ -70,39 +70,4 @@ def get_feed(feed, url , Authheaders):
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# feed = gtfs_realtime_pb2.FeedMessage()
-
-# try:
-#   my_headers = {'x-api-key' : 'tQ5fewZjmB9F2Fe53QJkc15tM3nH7cMG6ONiDPdN'}
-#   response = requests.get('https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/  nyct%2Fgtfs-nqrw',headers=my_headers)
-#   response.raise_for_status()
-#   # print(response)
-#   print(response.text())
-  
-#   # feed.ParseFromString(response.text())
-#   # for entity in feed.entity:
-#   #   if entity.HasField('trip_update'):
-#   #     print (entity.trip_update)
-# except requests.exceptions.HTTPError as error:
-#   print(error)
-#   # This code will run if there is a 404 error.
 
